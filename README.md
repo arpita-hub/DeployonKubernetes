@@ -1,4 +1,4 @@
-# Deploying Microservices Application on Google Cloud Platform.
+# Deploying Microservices Application on Google Cloud Platform using Google Kubernetes Engine
 Create the Account on GCP.
 Then search for Kubernetes Cluster.
 Click on Create Cluster.
